@@ -8,7 +8,7 @@ This work was done by Claudio Cannizzaro, Konrad Handrick and Florian Pauschitz.
 To run, install dependencies (with a package manger of your choice).
 
 ```bash
-micromamba create -n dlsc pytorch numpy matplotlib
+micromamba create -n dlsc pytorch numpy matplotlib tqdm
 micromamba activate dlsc
 ``` 
 
