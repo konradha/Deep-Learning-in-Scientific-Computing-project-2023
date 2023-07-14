@@ -1,4 +1,4 @@
-###Deep Learning for Scientific Computing Project
+### Deep Learning for Scientific Computing FS23, Final Project
 
 This is the project repository showcasing our work on using
 PINNs to solve radiative transfer problems.
