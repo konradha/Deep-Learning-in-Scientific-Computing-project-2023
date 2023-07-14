@@ -13,3 +13,5 @@ micromamba activate dlsc
 ``` 
 
 The concluding report may be found as the PDF file contained in this repository.
+
+@konradha
